@@ -3,7 +3,7 @@ import Navbar from "../Navbar/Navbar";
 import Footer from "../Footer/Footer";
 
 const Home = () => {
-    // const navigation = useNavigation();
+    const navigation = useNavigation();
     return (
         <div>
             <Navbar></Navbar>
